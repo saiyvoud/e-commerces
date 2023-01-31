@@ -1,0 +1,67 @@
+var banner = [
+  "assets/images/banners1.jpeg",
+  "assets/images/banners2.jpeg",
+  "assets/images/banners3.jpeg",
+  "assets/images/banners4.jpeg",
+  "assets/images/banners5.jpeg",
+];
+var menu = [
+  {'name': "ເກມ", "icon": "assets/icon/joystick.png"},
+  {'name': "ທັງໝົດ", "icon": "assets/icon/menu.png"},
+  {'name': "ເຄື່ອງຫລີ້ນເພງ", "icon": "assets/icon/music-player.png"},
+  {'name': "ກ້ອງ", "icon": "assets/icon/photo.png"},
+  {'name': "ເຄື່ອງໃຊ້ໄຟຟ້າ", "icon": "assets/icon/refrigerator.png"},
+  {'name': "ໂທລະສັບ", "icon": "assets/icon/smartphone.png"},
+  {'name': "ຄອມພິວເຕີ", "icon": "assets/icon/ux.png"},
+  {'name': "ແວ່ນຕາວີອາ", "icon": "assets/icon/vr-glasses.png"},
+];
+var product = [
+  {
+    'id': '1',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products1.jpeg',
+  },
+  {
+    'id': '2',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products2.jpeg',
+  },
+  {
+    'id': '3',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products3.jpeg',
+  },
+  {
+    'id': '4',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products4.jpeg',
+  },
+  {
+    'id': '5',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products5.jpeg',
+  },
+  {
+    'id': '6',
+    'name': 'ໂທລະສັບ',
+    'desc': "ssdsdsdsds",
+    'amount': 10,
+    'price': 100000,
+    'image': 'assets/images/products6.jpeg',
+  },
+];
